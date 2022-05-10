@@ -89,11 +89,11 @@
   
     <shape modelObjectName="APP_INTERACTIONS_INTERACTIONS_HEADER" modelObjectNameSpace="Join_1" modelObjectType="JoinNodeInput">
       <upperLeftCorner x="41" y="46"/>
-      <rectangleSize width="339.3671875"/>
+      <rectangleSize width="339"/>
     </shape>
     <shape modelObjectName="APP_INTERACTIONS_INTERACTIONS_ITEMS" modelObjectNameSpace="Join_1" modelObjectType="JoinNodeInput">
       <upperLeftCorner x="481" y="43"/>
-      <rectangleSize width="325.36328125"/>
+      <rectangleSize width="325"/>
     </shape>
   </shapes>
 </layout>

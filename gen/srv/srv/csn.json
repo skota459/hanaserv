@@ -242,6 +242,12 @@
         }
       }
     },
+    "CatalogService.sleep": {
+      "kind": "function",
+      "returns": {
+        "type": "cds.Boolean"
+      }
+    },
     "CatalogService.V_Interaction": {
       "kind": "entity",
       "@readonly": true,
